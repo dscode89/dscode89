@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Saleh and I am Software Developer :) 
+I am Saleh and I am a Software Developer :) 
 
 When I am not coding and creating, you can often find me playing guitar, video games or camping with pals!
 
