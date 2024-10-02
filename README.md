@@ -11,7 +11,7 @@ When I am not coding and creating, you can often find me playing guitar, video g
 --- 
 ## 🚀 My Current Tech Skillset
  - **Languages**: JavaScript, TypeScript, SQL
- - **Frontend**: React, React Native, HTML5, CSS3, Storybook.js, Tailwind CSS, Atomic Design Principles
+ - **Frontend**: React, React Native, HTML5, CSS3, Storybook.js, Tailwind CSS, Styled Components, Atomic Design Principles
  - **Backend**: NodeJs, Express, SuperTest, PostgreSQL, Jest, RESTful Api's, Google Firebase, MongoDb, TRPC, Prisma
  - **Version Control**: Git, GitHub
 
