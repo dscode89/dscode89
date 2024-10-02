@@ -20,6 +20,7 @@ When I am not coding and creating, you can often find me playing guitar, video g
  ## 👷‍♂️ Currently Working On
 
   - MERN stack application to create a 'Thought Wall' for my flatmates. Will also incorporate WebSockets for realtime updates.
+  - A cool new app to revolutionise the train industry
   - Learning PHP/C# via online tuition
 
 ---
