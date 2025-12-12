@@ -10,18 +10,18 @@ When I am not coding and creating, you can often find me playing guitar, video g
 
 --- 
 ## 🚀 My Current Tech Skillset
- - **Languages**: JavaScript, TypeScript, SQL
- - **Frontend**: React, React Native, HTML5, CSS3, Storybook.js, Tailwind CSS, Styled Components, Atomic Design Principles
+ - **Languages**: JavaScript, TypeScript, Dart, SQL
+ - **Frontend**: React, React Native, HTML5, CSS3, Flutter, Storybook.js, Tailwind CSS, Styled Components
  - **Backend**: NodeJs, Express, SuperTest, PostgreSQL, Jest, RESTful Api's, Google Firebase, MongoDb, TRPC, Prisma
  - **Version Control**: Git, GitHub
+ - **DevOps**: GitHub, Github Actions, Docker
 
  - ---
 
  ## 👷‍♂️ Currently Working On
 
-  - MERN stack application to create a 'Thought Wall' for my flatmates. Will also incorporate WebSockets for realtime updates.
-  - A cool new app to revolutionise the train industry
-  - Learning PHP/C# via online tuition
+  - Full Stack Dart application called Binzout.
+
 
 ---
 
@@ -30,16 +30,4 @@ When I am not coding and creating, you can often find me playing guitar, video g
  - **LinkedIn**: https://www.linkedin.com/in/daniel-saleh-a85568168/
  - **email**: dscode89@gmail.com
 <!--
-**dscode89/dscode89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
